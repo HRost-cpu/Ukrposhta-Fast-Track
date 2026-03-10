@@ -1,4 +1,4 @@
-# 🇺🇦 Українська: Ukrposhta Fast-Track Pro
+[![Jekyll site CI](https://github.com/HRost-cpu/Ukrposhta-Fast-Track/actions/workflows/jekyll-docker.yml/badge.svg?branch=main)](https://github.com/HRost-cpu/Ukrposhta-Fast-Track/actions/workflows/jekyll-docker.yml)# 🇺🇦 Українська: Ukrposhta Fast-Track Pro
 Ukrposhta Fast-Track Pro — це автоматизоване робоче місце оператора, розроблене для максимально швидкого створення поштових відправлень через API Укрпошти. Проєкт вирішує проблему складності офіційного API, де для реєстрації однієї посилки потрібно послідовно виконати 6 окремих запитів.
 
 ✨ Основні можливості:
